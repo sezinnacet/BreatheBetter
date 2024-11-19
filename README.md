@@ -79,7 +79,7 @@ Ayrıca, hava kirliliği ile meteorolojik faktörlerin etkisini anlamak hedeflen
 
 ## **Sonuçlar ve Öneriler**
 
-1. PM2.5 seviyeleri sıcaklık ve nem gibi faktörlerle güçlü ilişkiler göstermiştir.
+1. PM2.5 seviyeleri sıcaklık faktörüyle güçlü ilişkiler göstermiştir.
 2. Makine öğrenimi modeli ile yüksek doğrulukla PM2.5 tahmini yapılmıştır.
 3. Harita görselleştirmesi ile kirli bölgeler kolayca tespit edilmiştir.
 4. **Öneri:** Temiz hava projeleri öncelikli olarak nem oranı yüksek ve sıcaklık değişimlerinin fazla olduğu
