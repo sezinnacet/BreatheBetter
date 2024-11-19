@@ -3,6 +3,8 @@
 Bu proje, dünya genelindeki hava kirliliği seviyelerinin analizi ve bu seviyelerin düşürülmesi için öneriler geliştirmeyi hedefler.
 Proje, PM2.5 (ince partikül madde) seviyelerinin tahmini, sıcaklık ve meteorolojik faktörlerin analizini kapsamaktadır.
 
+### Haritanın Örnek Gösterimi
+![Dünya Haritası](image.png)
 ---
 
 ## **Proje Özeti**
