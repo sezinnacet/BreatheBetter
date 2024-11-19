@@ -5,7 +5,6 @@ Proje, PM2.5 (ince partikül madde) seviyelerinin tahmini, sıcaklık ve meteoro
 
 ---
 
-
 ## **Proje Özeti**
 
 - Çeşitli meteorolojik faktörler ile PM2.5 seviyelerinin ilişkisini inceleyen bir veri bilimi çalışması gerçekleştirilmiştir.
